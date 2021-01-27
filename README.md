@@ -20,7 +20,7 @@ Enter all these attributes as characters strings except "self.tags", this must b
 
 For each Tool, you can add attributes to the parameters. E.g: `param1.dialogref`. For further examples see the sample toolbox.
 
-Next, `import write_docs` in the beginning of your *.pyt file and run `write_docs.main(Toolbox,"SampleToolbox")` and the end of your *.pyt file. The second argument should contain the name of your *.pyt file without the extension. 
+Next, `import write_docs` in the beginning of your *.pyt file and run `write_docs.main(Toolbox,"SampleToolbox")` at the end of your *.pyt file. The second argument should contain the name of your *.pyt file without the extension. 
 
 
 
